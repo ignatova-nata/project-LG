@@ -1,0 +1,3 @@
+1. nav > flex-row > текст в центре при md-ширине экрана?
+2. .business_card_qr p - позиция?
+3. @media 480px > .news-box переместить за header?
