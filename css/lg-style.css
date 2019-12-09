@@ -1,5 +1,6 @@
 @import "normalize.css";
 @import "flex.css";
+@import "scroll.css";
 * {
     padding: 0;
     margin: 0;
